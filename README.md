@@ -1,6 +1,6 @@
 ## Descripción
 
-Este es un portfolio creado en HTML, PBIX, DOCX de los proyectos más importantes desarroyados durante mi formación.
+Este es un portfolio creado en HTML, PBIX, DOCX de los proyectos más importantes desarrollados durante mi formación.
 
 ## Autor - 
 **Noelia Fernández**
