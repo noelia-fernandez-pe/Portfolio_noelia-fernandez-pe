@@ -2,7 +2,7 @@
 
 Este es un portfolio creado en HTML, PBIX, DOCX de los proyectos más importantes desarrollados durante mi formación.
 
-<strong>Un dato a recordar ⭐️...</strong> No puedes completar un proyecto sin usar StackOverflow<br>
+<strong>Un dato a recordar ⭐️...</strong> Es casi imposible completar un proyecto sin usar StackOverflow 😅<br>
 
 ## Autor  
 **Noelia Fernández**
