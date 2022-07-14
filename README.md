@@ -8,5 +8,5 @@ Este es un portfolio creado en HTML, PBIX, DOCX de los proyectos más importante
 
 ## Licencia
 
-MIT Public License V3.0.
+MIT Public License V3.0         
 No puede usarse comercialmente.
