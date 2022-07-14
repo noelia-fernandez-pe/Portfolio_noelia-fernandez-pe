@@ -4,9 +4,12 @@ Este es un portfolio creado en HTML, PBIX, DOCX de los proyectos más importante
 
 <strong>Un dato a recordar ⭐️...</strong> No puedes completar un proyecto sin usar StackOverflow<br>
 
-## Autor - 
+## Autor  
 **Noelia Fernández**
 * [LinkedIn](https://www.linkedin.com/in/noelia-fernández-pe)
+
+## Contacto
+Puedes escribirme a noafdad@gmail.com
 
 ## Licencia 📝
 
