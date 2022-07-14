@@ -8,7 +8,7 @@ Este es un portfolio creado en HTML, PBIX, DOCX de los proyectos más importante
 **Noelia Fernández**
 * [LinkedIn](https://www.linkedin.com/in/noelia-fernández-pe)
 
-## Licencia
+## Licencia 📝
 
 MIT Public License V3.0         
 No puede usarse comercialmente.
