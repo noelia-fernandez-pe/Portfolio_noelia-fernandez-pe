@@ -2,6 +2,8 @@
 
 Este es un portfolio creado en HTML, PBIX, DOCX de los proyectos más importantes desarrollados durante mi formación.
 
+<strong>Un dato a recordar ...</strong>: No puedes completar un proyecto sin usar StackOverflow<br>
+
 ## Autor - 
 **Noelia Fernández**
 * [LinkedIn](https://www.linkedin.com/in/noelia-fernández-pe)
