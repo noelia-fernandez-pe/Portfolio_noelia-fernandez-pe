@@ -8,8 +8,8 @@ Este es un portfolio creado en HTML, PBIX, DOCX de los proyectos más importante
 **Noelia Fernández**
 * [LinkedIn](https://www.linkedin.com/in/noelia-fernández-pe)
 
-## Ver
-* https://github.com/noelia-fernandez-pe/Portfolio_noelia-fernandez-pe
+## Ver Mi GitHub
+* https://github.com/noelia-fernandez-pe
 
 ## Contacto
 Puedes escribirme a noafdad@gmail.com
